@@ -29,3 +29,28 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width='55px' height='55px' alt='TypeScript'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width='55px' height='55px' alt='React'/>
 </div>
+
+## Some of my projects: ##
+**eCommerce Application 🛍️🌐**  
+https://yes-code-merch.netlify.app/  
+You can fint the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)
+
+This platform replicates real-world shopping experiences in a digital environment 🏪. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence 🚀.
+
+Users can browse through a vast range of products 📚👗👟, view detailed descriptions, add their favorite items to the basket 🛒, and proceed to checkout 💳. It includes features such as user registration and login 📝🔐, product search 🔍, product categorization, and sorting to make the shopping experience more streamlined and convenient.
+
+The application is powered by CommerceTools 🌐, a leading provider of commerce solutions for B2C and B2B enterprises. CommerceTools offers a cloud-native, microservices-based commerce platform that enables brands to create unique and engaging digital commerce experiences.
+
+
+**GraphiQL**  
+https://graphiql-playground.netlify.app/  
+You can fint the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)  
+
+GraphiQL is a playground/IDE for graphQL requests. Application supports any open, user-specified GraphQL API that supports CORS
+
+The app is also include:
+
+- Authorization and authentication capabilities, ensuring access to the tool is restricted to authorized users.
+- Work with a user-specified open GraphQL endpoint.
+
+
