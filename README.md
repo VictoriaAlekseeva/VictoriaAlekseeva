@@ -44,8 +44,7 @@ The application is powered by CommerceTools 🌐, a leading provider of commerce
 
 **GraphiQL**  
 https://graphiql-playground.netlify.app/  
-You can find the code here: [[https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)  
-](https://github.com/HelgaZhizhka/graphiql-app/tree/develop)
+You can find the code here: https://github.com/HelgaZhizhka/graphiql-app/tree/develop  
 GraphiQL is a playground/IDE for graphQL requests. Application supports any open, user-specified GraphQL API that supports CORS
 
 The app is also include:
