@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## Some of my projects: ##
 **eCommerce Application 🛍️🌐**  
 https://yes-code-merch.netlify.app/  
-You can fint the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)
+You can find the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)
 
 This platform replicates real-world shopping experiences in a digital environment 🏪. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence 🚀.
 
@@ -44,7 +44,7 @@ The application is powered by CommerceTools 🌐, a leading provider of commerce
 
 **GraphiQL**  
 https://graphiql-playground.netlify.app/  
-You can fint the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)  
+You can find the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)  
 
 GraphiQL is a playground/IDE for graphQL requests. Application supports any open, user-specified GraphQL API that supports CORS
 
