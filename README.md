@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 ## Some of my projects: ##
 **eCommerce Application 🛍️🌐**  
-https://yes-code-merch.netlify.app/  
-You can find the code here: [https://github.com/HelgaZhizhka/eCommerce-Application](https://github.com/HelgaZhizhka/eCommerce-Application/tree/develop)
+[https://yes-code-store.netlify.app/](https://yes-code-store.netlify.app/)  
+You can find the code here: [https://github.com/VictoriaAlekseeva/eCommerce-Application](https://github.com/VictoriaAlekseeva/eCommerce-Application/tree/develop)
 
 This platform replicates real-world shopping experiences in a digital environment 🏪. It's a comprehensive online shopping portal that provides an interactive and seamless experience to users. From product discovery to checkout, the application ensures a smooth journey for the user, enhancing their engagement and boosting their purchasing confidence 🚀.
 
